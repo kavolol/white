@@ -58,8 +58,8 @@
 	maxbodytemp = 1600
 
 /mob/living/simple_animal/hostile/froggernaut
-	name = "Бурый Увалень"
-	desc = "Гроза подземелья"
+	name = "\"Лягушатник\""
+	desc = "Гроза подземелья. Плюётся ядом, разъедающим кости и вызывающим дизентерию."
 	icon = 'white/rashcat/icons/dwarfs/mobs/46x46.dmi'
 	icon_state = "froggernaut"
 	speed = 2
